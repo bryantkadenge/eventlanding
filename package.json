@@ -1,0 +1,26 @@
+{
+  "name": "eventlanding",
+  "version": "1.0.0",
+  "description": "A landing page specifically for events that counts time to the daate of the event.",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryantkadenge/eventlanding.git"
+  },
+  "keywords": [
+    "Landing",
+    "Page"
+  ],
+  "author": "Bryant Kadenge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryantkadenge/eventlanding/issues"
+  },
+  "homepage": "https://github.com/bryantkadenge/eventlanding#readme"
+}
